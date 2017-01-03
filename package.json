@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method/issues"
   },
-  "homepage": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method#readme"
+  "homepage": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method#readme",
+  "dependencies": {
+    "lm-se-client-info": "git+https://github.com/limingtech-front-end/lm-se-client-info.git"
+  }
 }

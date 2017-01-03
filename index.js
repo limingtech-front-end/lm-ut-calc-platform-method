@@ -1,4 +1,4 @@
-import clientInfo from 'se-client-info'
+import clientInfo from 'lm-se-client-info'
 export default function(options) {
     if ('native' in options) {
         if (clientInfo.render.isNativeWebView) {

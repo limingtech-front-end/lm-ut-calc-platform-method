@@ -1,22 +1,82 @@
 {
-  "name": "lm-ut-calc-platform-method",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "lm-ut-calc-platform-method@git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "scope": null,
+        "escapedName": "lm-ut-calc-platform-method",
+        "name": "lm-ut-calc-platform-method",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-ut-calc-platform-method.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "shortcut": "github:limingtech-front-end/lm-ut-calc-platform-method",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-calc-platform-method/master/package.json"
+        }
+      },
+      "D:\\Projects\\vsa\\node_modules\\lm-na-bridge"
+    ]
+  ],
+  "_from": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+  "_id": "lm-ut-calc-platform-method@1.0.0",
+  "_inCache": true,
+  "_location": "/lm-ut-calc-platform-method",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lm-ut-calc-platform-method@git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+    "scope": null,
+    "escapedName": "lm-ut-calc-platform-method",
+    "name": "lm-ut-calc-platform-method",
+    "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+    "spec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:limingtech-front-end/lm-ut-calc-platform-method.git",
+      "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+      "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+      "gitUrl": "git://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+      "shortcut": "github:limingtech-front-end/lm-ut-calc-platform-method",
+      "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-calc-platform-method/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/lm-na-bridge"
+  ],
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git#af6f175cd7192301332b8db7a98ce8785510fcd7",
+  "_shasum": "c1c8f7811d78ba599b9a962874852d0ee3282907",
+  "_shrinkwrap": null,
+  "_spec": "lm-ut-calc-platform-method@git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+  "_where": "D:\\Projects\\vsa\\node_modules\\lm-na-bridge",
+  "author": {
+    "name": "littlstonee",
+    "email": "littlstonee@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method/issues"
+  },
+  "dependencies": {
+    "lm-se-client-info": "git+https://github.com/limingtech-front-end/lm-se-client-info.git"
+  },
+  "devDependencies": {},
+  "gitHead": "af6f175cd7192301332b8db7a98ce8785510fcd7",
+  "homepage": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lm-ut-calc-platform-method",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git"
   },
-  "author": "littlstonee <littlstonee@hotmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/limingtech-front-end/lm-ut-calc-platform-method#readme",
-  "dependencies": {
-    "lm-se-client-info": "git+https://github.com/limingtech-front-end/lm-se-client-info.git"
-  }
+  "version": "1.0.0"
 }

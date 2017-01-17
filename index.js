@@ -1,5 +1,5 @@
-import clientInfo from 'lm-se-client-info'
-export default function(options) {
+var clientInfo = require('lm-se-client-info')
+module.exports=function(options) {
     if ('native' in options) {
         if (clientInfo.render.isNativeWebView) {
             return options.native

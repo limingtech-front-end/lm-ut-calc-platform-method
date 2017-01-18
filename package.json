@@ -20,6 +20,27 @@
         }
       },
       "D:\\Projects\\vsa\\node_modules\\lm-na-bridge"
+    ],
+    [
+      {
+        "raw": "lm-ut-calc-platform-method@git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "scope": null,
+        "escapedName": "lm-ut-calc-platform-method",
+        "name": "lm-ut-calc-platform-method",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-ut-calc-platform-method.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+          "shortcut": "github:limingtech-front-end/lm-ut-calc-platform-method",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-calc-platform-method/master/package.json"
+        }
+      },
+      "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-na-bridge"
     ]
   ],
   "_from": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
@@ -48,11 +69,11 @@
   "_requiredBy": [
     "/lm-na-bridge"
   ],
-  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git#af6f175cd7192301332b8db7a98ce8785510fcd7",
-  "_shasum": "c1c8f7811d78ba599b9a962874852d0ee3282907",
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git#78da16d4c7fa284a9e375dede398812425bbc0f2",
+  "_shasum": "549a4de4cb888917b1cd93c995984f6c0a9958d9",
   "_shrinkwrap": null,
   "_spec": "lm-ut-calc-platform-method@git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
-  "_where": "D:\\Projects\\vsa\\node_modules\\lm-na-bridge",
+  "_where": "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-na-bridge",
   "author": {
     "name": "littlstonee",
     "email": "littlstonee@hotmail.com"

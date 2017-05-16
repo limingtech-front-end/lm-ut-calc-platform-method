@@ -14,6 +14,9 @@ module.exports=function(options) {
     if (clientInfo.render.isWechatWebView) {
         return options.wechat
     } else if (clientInfo.render.isBrowser) {
-        return options.browser
+        console.log('no matched env')
+        return options.browser || function(){
+            return Promise.resolve({})
+        }
     }
 }
